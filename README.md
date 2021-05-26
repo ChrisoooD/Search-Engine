@@ -1,1 +1,2 @@
-This is a group project that is going to be completed by Christopher Deng and Carson Pittman.
+This is a group project that is completed by ChrisoooD and CarsonRPittman. (All names are Github Usernames)
+
