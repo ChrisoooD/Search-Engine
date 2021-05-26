@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfort_dev.a  CMakeFiles/fort_dev.dir/fort_impl.c.o CMakeFiles/fort_dev.dir/vector.c.o CMakeFiles/fort_dev.dir/string_buffer.c.o CMakeFiles/fort_dev.dir/properties.c.o CMakeFiles/fort_dev.dir/cell.c.o CMakeFiles/fort_dev.dir/row.c.o CMakeFiles/fort_dev.dir/table.c.o CMakeFiles/fort_dev.dir/fort_utils.c.o CMakeFiles/fort_dev.dir/wcwidth.c.o
+/usr/bin/ranlib libfort_dev.a

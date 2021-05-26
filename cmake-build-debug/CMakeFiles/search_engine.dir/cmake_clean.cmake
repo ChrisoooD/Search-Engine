@@ -1,0 +1,14 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/search_engine.dir/DocumentProcessor.cpp.o"
+  "CMakeFiles/search_engine.dir/HashTable.cpp.o"
+  "CMakeFiles/search_engine.dir/avl.cpp.o"
+  "CMakeFiles/search_engine.dir/main.cpp.o"
+  "CMakeFiles/search_engine.dir/utils.cpp.o"
+  "search_engine"
+  "search_engine.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/search_engine.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

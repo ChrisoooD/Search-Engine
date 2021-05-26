@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stem_demo.dir/stem_demo.cpp.o  -o stem_demo 

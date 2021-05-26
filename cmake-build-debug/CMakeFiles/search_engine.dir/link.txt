@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/search_engine.dir/main.cpp.o CMakeFiles/search_engine.dir/avl.cpp.o CMakeFiles/search_engine.dir/utils.cpp.o CMakeFiles/search_engine.dir/DocumentProcessor.cpp.o CMakeFiles/search_engine.dir/HashTable.cpp.o  -o search_engine  third_party/libfort/libfort_dev.a 

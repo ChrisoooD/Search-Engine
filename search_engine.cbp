@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="search_engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\third_party\;CMake Files\third_party\libfort\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="csv_demo">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/csv_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 csv_demo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="csv_demo/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/csv_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 csv_demo/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hashtable_demo">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/hashtable_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 hashtable_demo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hashtable_demo/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/hashtable_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 hashtable_demo/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stem_demo">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/stem_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 stem_demo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stem_demo/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/stem_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 stem_demo/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boost_demo">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/boost_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 boost_demo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boost_demo/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/boost_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 boost_demo/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 search_engine"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 search_engine/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fort_dev">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/libfort_dev.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT_TEST_BUILD=1"/>
+					<Add directory="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 fort_dev"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fort_dev/fast">
+				<Option output="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/libfort_dev.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT_TEST_BUILD=1"/>
+					<Add directory="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 fort_dev/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/DocumentProcessor.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/DocumentProcessor.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/HashTable.cpp">
+			<Option target="hashtable_demo"/>
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/HashTable.h">
+			<Option target="hashtable_demo"/>
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/avl.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/avl.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/boost_demo.cpp">
+			<Option target="boost_demo"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/csv_demo.cpp">
+			<Option target="csv_demo"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/fort.hpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/hashtable_demo.cpp">
+			<Option target="hashtable_demo"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/main.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/stem_demo.cpp">
+			<Option target="stem_demo"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/cell.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/cell.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/fort_impl.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/fort_utils.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/fort_utils.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/properties.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/properties.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/row.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/row.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/string_buffer.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/string_buffer.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/table.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/table.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/vector.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/vector.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/wcwidth.c">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/wcwidth.h">
+			<Option target="fort_dev"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/utils.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/utils.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/memormou/DX/12_5_6am_SE/search_engine/third_party/libfort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\third_party\libfort\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
